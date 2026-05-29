@@ -1,4 +1,4 @@
-# RAG_Weaviate 🔬
+# RAG_Weaviate
 
 A **Multimodal RAG** (Retrieval-Augmented Generation) system for scientific papers and PDF documents. Combines visual page understanding with semantic text search to answer questions with full context — text and images together.
 
